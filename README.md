@@ -1,4 +1,4 @@
-# Weather App
+# Weather App - React
 
 A simple and user-friendly Weather App built with React that allows users to fetch and display current weather information for any city using the OpenWeatherMap API.
 
