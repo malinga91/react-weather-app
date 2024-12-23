@@ -68,10 +68,6 @@ src/
 ├── App.css                // Styling for the app
 ```
 
-### Demo
-
-[Live Demo](https://your-deployment-link.com)
-
 ### Future Improvements
 
 - Add a 5-day weather forecast feature.
